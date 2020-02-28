@@ -5,6 +5,7 @@ int main()
 {
 cout<<"hello world"<<endl;
 cout<<"i am lucky"<<endl;
+cout<<"welcome to Newway"<<endl;
 return 0;
 }
 
